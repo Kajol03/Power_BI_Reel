@@ -1,7 +1,7 @@
 # Power_BI_Reel
 
-Topic : Key features overview:-
-
+A faceless reel was made on Power BI, explaining its key features.
+Key features overview:-
 Interactive dashboards, 
 intuitive drag-and-drop interface, 
 seamless data connectivity, and 
